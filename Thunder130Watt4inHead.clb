@@ -2245,7 +2245,7 @@
         </Entry>
     </Material>
     <Material name="Poplar">
-        <Entry Thickness="19.0000" Desc="Cut">
+        <Entry Thickness="19.0500" Desc="Cut">
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
